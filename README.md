@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishesh_1110" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg)" alt="vishesh_1110" height="30" width="40" /></a>
+<a href="https://twitter.com/vishesh_1110" target="blank"><img align="center" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" alt="vishesh_1110" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishkle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishkle" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vishesh1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishesh1110" height="30" width="40" /></a>
 <a href="https://kaggle.com/vishesh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishesh singh" height="30" width="40" /></a>
