@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishesh_1110" target="blank"><img align="center" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" alt="vishesh_1110" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishkle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishkle" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vishesh1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishesh1110" height="30" width="40" /></a>
-<a href="https://kaggle.com/vishesh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishesh singh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishesh1110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishesh1110" height="30" width="40" /></a>
+<a href="https://twitter.com/vishesh_1110" target="blank"><img align="center" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" alt="vishesh_1110" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishesh1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishesh1110" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/visheshvividh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="visheshvividh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vishesh1110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishesh1110" height="30" width="40" /></a>
+<a href="https://kaggle.com/vishesh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishesh singh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vishesh1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishesh1110" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
