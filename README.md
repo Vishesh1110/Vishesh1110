@@ -52,24 +52,24 @@
 <h2 align="center"> Frameworks and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 
 <p align = "center">
-    <a href="https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general-phrase_prosp-brand_gic-null_ww-multi_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=11295578158&adgroup=116363205048&cq_cmp=11295578158&gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPkn0c7bCsk9xblngZeYyHuXBPhPXaPVJQTIcC_2MDi5_suNgb_3KsaAtInEALw_wcB" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/5d77bab1-d864-4931-9314-fb1db0e77ba3" alt="mongodb" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/ba9a0243-2e23-40e4-84b7-9fdd2a547d9f" alt="expressjs" width="55" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/e3069594-596e-4564-91cb-41370294593f" alt="reactjs" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/9c788970-7b35-4bd1-ac2a-b26bb0b95c78" alt="nodejs" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/105230d4-c73e-466c-9942-c2271e8091b7" alt="xcode" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnMQgakEhg5SH9M9vK6eS4e8xoB_VFCNpI29PGUcl77j36s8e4uY35UaAn1BEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/46660b6e-2496-4cfd-948c-b47ac1c28b3a" alt="android_studio" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/user-attachments/assets/6fea184d-fac9-4ff3-b178-9457c675bed9" alt="jupyternotebook" width="47" height="47"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general-phrase_prosp-brand_gic-null_ww-multi_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=11295578158&adgroup=116363205048&cq_cmp=11295578158&gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPkn0c7bCsk9xblngZeYyHuXBPhPXaPVJQTIcC_2MDi5_suNgb_3KsaAtInEALw_wcB" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/5d77bab1-d864-4931-9314-fb1db0e77ba3" alt="mongodb" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/ba9a0243-2e23-40e4-84b7-9fdd2a547d9f" alt="expressjs" width="55" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/e3069594-596e-4564-91cb-41370294593f" alt="reactjs" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/9c788970-7b35-4bd1-ac2a-b26bb0b95c78" alt="nodejs" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/105230d4-c73e-466c-9942-c2271e8091b7" alt="xcode" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnMQgakEhg5SH9M9vK6eS4e8xoB_VFCNpI29PGUcl77j36s8e4uY35UaAn1BEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/46660b6e-2496-4cfd-948c-b47ac1c28b3a" alt="android_studio" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/6fea184d-fac9-4ff3-b178-9457c675bed9" alt="jupyternotebook" width="47" height="47"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
