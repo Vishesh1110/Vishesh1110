@@ -94,7 +94,7 @@
 
 </br>
 
-<p>< img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh1110&layout=compact&hide=html&theme=radical"/> </p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh1110&layout=compact&hide=html&theme=radical"/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishesh1110&show_icons=true&locale=en&theme=radical" alt="vishesh1110" /></p>
 
