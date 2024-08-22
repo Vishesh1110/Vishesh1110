@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vishesh_1110" target="blank"><img src="https://img.shields.io/twitter/follow/vishesh_1110?logo=twitter&style=for-the-badge" alt="vishesh_1110" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **react.js and iOS development 🍎**
 
-- 🌱 I’m currently learning **Kotlin and Machine Learning**
+- 🌱 I’m currently learning **iOS Development 🍎**
 
 - 💬 Ask me about **C++, Python**
 
@@ -40,7 +40,7 @@
     <a href="https://auth.geeksforgeeks.org/user/visheshvividh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="visheshvividh" height="30" width="40" /></a>&nbsp;
     <a href="https://stackoverflow.com/users/vishesh1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishesh1110" height="30" width="40" /></a>&nbsp;
     <a href="https://www.codechef.com/users/vishesh1110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishesh1110" height="30" width="40" /></a>&nbsp;
-    <a href="https://kaggle.com/vishesh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishesh singh" height="30" width="40" /></a>&nbsp;
+    
 </p>
 
 <br></br>
