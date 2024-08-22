@@ -16,7 +16,7 @@
 - 📫 How to reach me **visheshvividh@gmail.com**
 
   
-<br/>
+<br>
 <h2 align="center"> Languages and Libraries <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 
 <p align="center"> 
@@ -91,8 +91,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishesh1110" height="35" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-</br>
-
+<br/><br/>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh1110&layout=compact&hide=html&theme=radical"/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishesh1110&show_icons=true&locale=en&theme=radical" alt="vishesh1110" /></p>
