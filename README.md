@@ -48,7 +48,6 @@
         <img src="https://github.com/user-attachments/assets/5e9bb625-0215-406f-abdd-f1ffb80552f7" alt="tensorflow" width="42" height="42"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br/>
 
 <h2 align="center"> Frameworks and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 
