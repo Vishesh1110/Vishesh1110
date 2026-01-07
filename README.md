@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishesh_1110" target="blank"><img src="https://img.shields.io/twitter/follow/vishesh_1110?logo=twitter&style=for-the-badge" alt="vishesh_1110" /></a> </p>
 
-- 🔭 I’m currently working on **react.js and iOS development 🍎**
-
-- 🌱 I’m currently learning **iOS Development 🍎**
+- 🔭 I’m currently learning **next.js and react.js**
 
 - 💬 Ask me about **C++, Python**
 
