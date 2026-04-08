@@ -3,15 +3,8 @@
 <div align="center">
 <img alt="Coding" height="450" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishesh1110" alt="vishesh1110" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vishesh_1110" target="blank"><img src="https://img.shields.io/twitter/follow/vishesh_1110?logo=twitter&style=for-the-badge" alt="vishesh_1110" /></a> </p>
-
-- 🔭 I’m currently learning **next.js and react.js**
-
-- 💬 Ask me about **C++, Python**
-
-- 📫 How to reach me **visheshvividh@gmail.com**
 
   
 <br/>
@@ -82,14 +75,14 @@
         <img align="center" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" alt="vishesh_1110" height="40" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.leetcode.com/vishesh1110" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishesh1110" height="35" width="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://auth.geeksforgeeks.org/user/visheshvividh" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="visheshvividh" height="50" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/vishesh1110" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishesh1110" height="35" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- <a href="https://auth.geeksforgeeks.org/user/visheshvividh" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="visheshvividh" height="50" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://stackoverflow.com/users/vishesh1110" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishesh1110" height="35" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
 <br/><br/>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh1110&layout=compact&hide=html&theme=radical"/> </p>
+<!-- <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh1110&layout=compact&hide=html&theme=radical"/> </p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishesh1110&show_icons=true&locale=en&theme=radical" alt="vishesh1110" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishesh1110&show_icons=true&locale=en&theme=radical" alt="vishesh1110" /></p> -->
 
