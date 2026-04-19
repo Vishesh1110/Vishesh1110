@@ -8,63 +8,9 @@
 
   
 <br/>
-<h2 align="center"> Languages and Libraries <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> </a>&nbsp;&nbsp;
-<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="swift" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="js" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/66b393c6-c7a0-4fac-87e9-e0f38fb22c15" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/5e9bb625-0215-406f-abdd-f1ffb80552f7" alt="tensorflow" width="42" height="42"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-<h2 align="center"> Frameworks and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-
-<p align = "center">
-<a href="https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general-phrase_prosp-brand_gic-null_ww-multi_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=11295578158&adgroup=116363205048&cq_cmp=11295578158&gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPkn0c7bCsk9xblngZeYyHuXBPhPXaPVJQTIcC_2MDi5_suNgb_3KsaAtInEALw_wcB" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/5d77bab1-d864-4931-9314-fb1db0e77ba3" alt="mongodb" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/ba9a0243-2e23-40e4-84b7-9fdd2a547d9f" alt="expressjs" width="55" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/e3069594-596e-4564-91cb-41370294593f" alt="reactjs" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/9c788970-7b35-4bd1-ac2a-b26bb0b95c78" alt="nodejs" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/105230d4-c73e-466c-9942-c2271e8091b7" alt="xcode" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnMQgakEhg5SH9M9vK6eS4e8xoB_VFCNpI29PGUcl77j36s8e4uY35UaAn1BEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/46660b6e-2496-4cfd-948c-b47ac1c28b3a" alt="android_studio" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/6fea184d-fac9-4ff3-b178-9457c675bed9" alt="jupyternotebook" width="47" height="47"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-FFC81E?style=for-the-badge&logo=javascript&logoColor=black) ![Bun](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <h2 align="center"> Connect With Me <img src = "https://www.svgrepo.com/show/489904/connect.svg" width = 40px></h2>
 
