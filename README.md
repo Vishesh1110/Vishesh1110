@@ -1,5 +1,5 @@
 <h2>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Vishesh</h2>
-<strong>Backend + AI Engineer, currently figuring out stuffs!!<strong/>
+<strong>Backend + AI Engineer, figuring out stuffs!!<strong/>
 <!-- <h1 align="center">Software Engineer</h1> -->
 <!-- <div align="center">
 <!-- <img alt="Coding" height="450" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"> -->
